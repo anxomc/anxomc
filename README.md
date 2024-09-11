@@ -1,4 +1,4 @@
-## Hi there, I am Anxo 👋 
+<h1 align="center"> Hi there, I am Anxo 👋 </h1>
 
 <!--
 **anxomc/anxomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
