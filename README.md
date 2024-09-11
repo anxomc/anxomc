@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+- 📗 Graduated in computer science by UPM
+- ✨ 2023-2024 with TUVienna
