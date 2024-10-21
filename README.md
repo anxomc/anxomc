@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## About me
 
 - 📗 Graduated in computer science by UPM
 - ✨ 2023-2024 with TUVienna
+-->
