@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I am Anxo 👋 </h1>
-
+[![Anxo Muñiz Covelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxomc&show_icons=true&theme=dark&rank_icon=circle)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anxomc/anxomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
